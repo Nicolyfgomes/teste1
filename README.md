@@ -1,6 +1,6 @@
 # teste1
 primeira aula
-:dog: :cat: :stethoscope:
+:dog: :cat: :stethoscope: :heart:
 # requisito
 ## requisitos funcionais
 - **RF-01** o programa deve armazenar informações do usuario
