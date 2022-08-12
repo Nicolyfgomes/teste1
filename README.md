@@ -1,6 +1,6 @@
 # teste1
 primeira aula
-:+: :tada: :sparkles: :dog: :cat:
+:dog: :cat: :stethoscope:
 # requisito
 ## requisitos funcionais
 - **RF-01** o programa deve armazenar informações do usuario
@@ -10,4 +10,4 @@ primeira aula
 ## requisitos funcionais
 - **RF-01** o programa deve ser colorido
 - **RF-02** o programa deve ser divertido
-- **RF-03** o programa deve ser ? 
+- **RF-03** o programa deve conter imagens de animais
