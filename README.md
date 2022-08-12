@@ -12,6 +12,8 @@ primeira aula
 - **RF-02** o programa deve ser divertido
 - **RF-03** o programa deve conter imagens de animais
 
+# requisito
+## requisitos funcionais
 ###INFORMAÇÕES DA AULA
 requisito (o que o sistema deve conter)
 requisito funcional(as funcionalidades dos programas)
